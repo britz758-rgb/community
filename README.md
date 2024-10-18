@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbritz758-rgb%2Fcommunity.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbritz758-rgb%2Fcommunity?ref=badge_shield)
+
 ### Community extensions for [CAPEv2](https://github.com/kevoreilly/CAPEv2/)
 
 * Some modules or other tools in this repo are written by the community and are not maintained by core devs
@@ -12,3 +14,7 @@
 * @bartblaze
 * @kevross33
 * @cccs-kevin 🇨🇦
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbritz758-rgb%2Fcommunity.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbritz758-rgb%2Fcommunity?ref=badge_large)
